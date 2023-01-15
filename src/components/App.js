@@ -19,6 +19,5 @@ const App = () => {
             {isLoaded?(<img src={dogImage} alt='A Random Dog'></img>):(<p>Loading...</p>)}
         </div>
     )
-
 }
 export default App
